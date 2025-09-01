@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_5_VARIABLES"/>
+        <attribute name="authors" value="MARIA"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-31 11:58:40 p. m."/>
+        <attribute name="created" value="TUFSSUE7REVTS1RPUC1NOFVOUkJBOzIwMjUtMDgtMzE7MTE6NDM6NDYgcC4gbS47MjkyNg=="/>
+        <attribute name="edited" value="TUFSSUE7REVTS1RPUC1NOFVOUkJBOzIwMjUtMDgtMzE7MTE6NTg6NDAgcC4gbS47MTszMDM0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nombre" type="String" array="False" size=""/>
+            <declare name="Edad" type="String" array="False" size=""/>
+            <assign variable="Nombre" expression="&quot;Mariana Acosta&quot;"/>
+            <assign variable="Edad" expression="&quot;17&quot;"/>
+        </body>
+    </function>
+</flowgorithm>
